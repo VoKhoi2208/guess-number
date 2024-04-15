@@ -1,4 +1,5 @@
-# [READ THE FINAL SECTION CAREFULL](https://github.com/VoKhoi2208/guess-number?tab=readme-ov-file#important-attention) #
+# [READ THE FINAL SECTION CAREFUL](https://github.com/VoKhoi2208/guess-number?tab=readme-ov-file#important-attention) #
+# [Read the Security Policy careful](https://github.com/VoKhoi2208/guess-number?tab=security-ov-file) #
 # Important
 This program will continue to be updated.
 # How to play
