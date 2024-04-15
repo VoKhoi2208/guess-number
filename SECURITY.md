@@ -1,66 +1,43 @@
-
 # Security Policy
 
-## 1. Introduction
+## Disclaimer
 
-Welcome to our platform's Security Policy. This document outlines the security measures and practices we adhere to in order to protect our users' information and ensure a secure environment for all activities conducted on our platform.
+By downloading and installing the "Guess Number" game, you agree to the following terms and conditions. Please read them carefully before proceeding.
 
-## 2. Scope
+- The "Guess Number" game is provided for entertainment purposes only. Users are solely responsible for their actions and any consequences resulting from the download, installation, and usage of the game.
 
-This Security Policy applies to all users, administrators, and any other individuals or entities interacting with our platform.
+- The developer of the "Guess Number" game does not accept any responsibility or liability for any malware infections or security breaches that may occur as a result of downloading or installing the game. Users download and install the game at their own risk.
 
-## 3. Account Security
+- The developer of the "Guess Number" game does not offer any compensation or take any responsibility, whether civil or criminal, for any incidents or damages related to the use of the game. This includes but is not limited to loss of data, financial loss, or legal consequences.
 
-- Users are responsible for maintaining the security of their accounts.
-- Passwords should be unique and kept confidential. 
-- We encourage the use of strong, complex passwords.
-- Users should enable two-factor authentication (2FA) whenever possible.
+- Users understand and acknowledge that the security of their information cannot be guaranteed. While the developer takes measures to protect user data, including personal information, from unauthorized access or disclosure, no system can be entirely secure.
 
-## 4. Data Protection
+## Terms of Use
 
-- We take the protection of user data seriously.
-- All user data is encrypted during transmission and storage.
-- Personal information is collected and processed in accordance with relevant privacy laws and regulations.
+- By downloading and installing the "Guess Number" game, users agree to abide by the terms and conditions outlined in this Security Policy.
 
-## 5. System Security
+- Users are prohibited from modifying, reverse-engineering, or tampering with the game in any way that violates intellectual property rights or compromises the security and integrity of the game.
 
-- Our systems are regularly updated with the latest security patches and fixes.
-- We employ intrusion detection and prevention systems to monitor and protect against unauthorized access.
-- Regular security audits and assessments are conducted to identify and address potential vulnerabilities.
+- Users are solely responsible for maintaining the confidentiality of any account credentials or personal information associated with the game.
 
-## 6. Security Incident Response
+- The developer reserves the right to modify, update, or discontinue the game at any time without prior notice.
 
-- In the event of a security incident or breach, we have procedures in place to promptly respond, investigate, and mitigate the impact.
-- Affected users will be notified as soon as possible, in accordance with applicable laws and regulations.
+- Any disputes or claims arising from the use of the "Guess Number" game shall be governed by the laws of and resolved through arbitration in.
 
-## 7. External Resources
+- By using the "Guess Number" game, users consent to the collection, storage, and processing of their personal information in accordance with the developer's Privacy Policy.
 
-- We may provide links to external websites or resources for the convenience of our users.
-- We are not responsible for the security practices or content of external resources and advise users to review their respective security policies.
+## Additional Notes
 
-## 8. Compliance
+- The "Guess Number" game may include features that require access to device permissions, such as camera, microphone, or location. Users are advised to review and grant these permissions carefully, as they may affect the functionality and security of the game.
 
-- We are committed to complying with all relevant security standards, laws, and regulations.
-- This Security Policy is subject to periodic review and updates to ensure continued compliance and effectiveness.
+- Users are encouraged to regularly update their device's operating system and security software to mitigate the risk of malware and security vulnerabilities.
 
-## 9. Contact Information
+- The developer may periodically release updates or patches to the "Guess Number" game to address security issues or improve performance. Users are recommended to install these updates promptly to ensure the security and stability of the game.
 
-For any security-related concerns, questions, or incidents, please contact our Security Team at [security@example.com](mailto:security@example.com).
+## Contact Information
 
-## 10. Security Policy Acknowledgement
+If you have any questions or concerns about this Security Policy or the "Guess Number" game, please contact us [here](mailto:minhkhoi0515@gmail.com).
 
-By using our platform, users acknowledge that they have read, understood, and agree to comply with this Security Policy.
-
----
-
-### Additional Notes:
-
-#### Guess Number Game Security Measures
-
-- The "Guess Number" game on our platform is designed with security in mind.
-- User interactions and inputs are validated and sanitized to prevent potential security vulnerabilities such as injection attacks.
-- Game sessions are securely managed to prevent unauthorized access or tampering with game data.
-- We continuously monitor game activity for any suspicious behavior or patterns indicative of security threats.
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
