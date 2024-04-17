@@ -1,7 +1,4 @@
-#include <iostream>
-#include <limits>
-#include <random>
-#include <ctime>
+#include <bits/stdc++.h>
 using namespace std;
 
 string nameuser = "Guest";
