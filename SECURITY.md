@@ -1,5 +1,5 @@
 # Security Policy
-
+*The terms below apply to all code or Repositories, Projects,... anything on my [Github profile](https://github.com/VoKhoi2208)*
 ## Disclaimer
 
 By downloading and installing the "Guess Number" game, you agree to the following terms and conditions. Please read them carefully before proceeding.
