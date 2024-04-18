@@ -27,7 +27,6 @@ By downloading and installing the **project**, you agree to the following terms 
 - By using the **project**, users consent to the collection, storage, and processing of their personal information in accordance with the developer's Privacy Policy.
 
 ## Additional Notes
-h
 - The **project** may include features that require access to device permissions, such as camera, microphone, or location. Users are advised to review and grant these permissions carefully, as they may affect the functionality and security of the game.
 
 - Users are encouraged to regularly update their device's operating system and security software to mitigate the risk of malware and security vulnerabilities.
