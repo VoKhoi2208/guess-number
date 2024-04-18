@@ -51,7 +51,15 @@ A game you must gusse the number.See more in game at `How to play?` tab.
 >**_Step 9_**: Open it.
 >
 >**_Step 10_**: Enjoy.
-  
+>
+**Method 4:**
+  >**_Step 1_**: Download `.exe` file.  
+  >
+  >**_Step 2_**: Open and run it.
+  >
+  >**_Step 3_**: Enjoy.
+  >
+
 # Note #
 The code is not yet complete, just Tested.
 
@@ -59,7 +67,7 @@ The code is not yet complete, just Tested.
 See in the game when you run it
 
 # IMPORTANT ATTENTION #
-This project **does not support, encourage, contribute or defend illegal gambling actions**.I affirm that I am **not** involved with other groups or individuals who use my project to engage in illegal activities. This is **open code and anyone can use i**t. **I also confirm** that I do not support their legal actions.
+This project **does not support, encourage, contribute or defend illegal gambling actions**.I affirm that I am **not** involved with other groups or individuals who use my project to engage in illegal activities. This is **open source code and anyone can use i**t. **I also confirm** that I do not support their legal actions.
 
 
 
