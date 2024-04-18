@@ -49,10 +49,4 @@ If you have any questions or concerns about this Security Policy or the **projec
 | IOS    | ✅               |
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-
+Report ***[here](https://forms.gle/y8K2MHtU7yeVi3s88)***
